@@ -38,7 +38,7 @@
             <item name="Date" type_name="gh_date" type_code="8">639235464933254892</item>
             <item name="Description" type_name="gh_string" type_code="10"></item>
             <item name="KeepOpen" type_name="gh_bool" type_code="1">false</item>
-            <item name="Name" type_name="gh_string" type_code="10">d3cc4af86ac04b4cbfd2923ab6458579.ghx</item>
+            <item name="Name" type_name="gh_string" type_code="10">dae7f4b131dd4818b072e19e132b765d.ghx</item>
           </items>
           <chunks count="3">
             <chunk name="Revisions">
@@ -49,10 +49,10 @@
             <chunk name="Projection">
               <items count="2">
                 <item name="Target" type_name="gh_drawing_point" type_code="30">
-                  <X>-2590</X>
-                  <Y>-1088</Y>
+                  <X>-2493</X>
+                  <Y>-1082</Y>
                 </item>
-                <item name="Zoom" type_name="gh_single" type_code="5">0.92118764</item>
+                <item name="Zoom" type_name="gh_single" type_code="5">0.9211878</item>
               </items>
             </chunk>
             <chunk name="Views">
